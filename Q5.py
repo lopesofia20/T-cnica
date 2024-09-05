@@ -5,6 +5,6 @@
 #qual interruptor controla cada lâmpada?
 
 
-#  Eu iria ligar o interruptor 1, esperar uns minutos, ir até a sala e ver qual lamppada esta quente,
-#  esta seria a lamada do interruptor 1, faria o mesmo com o 2o interruptor, e a lampada que sobrar,
+#  Eu iria ligar o interruptor 1, esperar uns minutos, ir até a sala e ver qual lâmpada esta quente,
+#  esta seria a lâmpada do interruptor 1, faria o mesmo com o 2o interruptor, e a lâmpada que sobrar,
 #  seria a do 3o interruptor. 
